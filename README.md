@@ -16,7 +16,7 @@ AI engineer with nearly two decades building production systems across Europe an
 
 ### Certifications
 
-`ISO 42001 AI` · `GCP ML Engineer` · `AWS Architect` · `Professional Scrum Master` · `IBM Data Science` · `Neural Networks & Deep Learning`
+`ISO 42001 AI` · `GCP ML Engineer` · `AWS Architect` · `GitLab Certified Security Specialist` · `GitLab Certified CI/CD Specialist` · `Neural Networks & Deep Learning`
 
 ### Languages
 
